@@ -7,12 +7,12 @@ Benchmarked traditional models (Logistic Regression, SVM) achieving macro-F1 ~0.
 
 The model trained in ~25 minutes over 5 epochs and achieved 80% validation accuracy on 4.1k unseen tweets. Delivered insights into population mood dynamics, enabling public-health teams and communicators to adapt messaging strategies in real time.
 
-Covid-19 Sentiment Analysis 🦠📊
+## Covid-19 Sentiment Analysis 🦠📊
 📌 Project Overview
 
 This project applies Natural Language Processing (NLP) and Machine Learning techniques to analyze public sentiment related to Covid-19. The goal is to uncover how people reacted on social media, news, and open datasets during the pandemic, providing insights into fear, positivity, and public opinion trends.
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Python (Pandas, NumPy, Scikit-learn, NLTK, Matplotlib, Seaborn, WordCloud)
 
@@ -20,13 +20,13 @@ Jupyter Notebook for interactive analysis
 
 Data Visualization for sentiment distribution and word frequency analysis
 
-📂 Dataset
+## 📂 Dataset
 
 Covid-19 related text data (tweets, comments, or open repositories).
 
 Preprocessed by cleaning, tokenization, stopword removal, and lemmatization.
 
-📊 Key Insights
+## 📊 Key Insights
 
 Conducted Exploratory Data Analysis (EDA) on Covid-19 sentiment data.
 
@@ -36,7 +36,7 @@ Classified text into positive, neutral, and negative sentiments.
 
 Identified temporal sentiment patterns and key shifts during pandemic peaks.
 
-🚀 Impact
+## 🚀 Impact
 
 This analysis helps:
 

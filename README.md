@@ -46,6 +46,6 @@ Healthcare organizations monitor fear and misinformation trends.
 
 Businesses adapt communication strategies during crises.
 
-📈 Sample Visuals
+## 📈 Sample Visuals
 
 (Word Clouds, Sentiment Distribution, and Trend Graphs are included in the notebook and render on GitHub.)

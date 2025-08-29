@@ -1,5 +1,5 @@
 ## COVID-19-Social-Media-Sentiment-Mining
-# COVID-19 Social Media Sentiment Mining | Python, scikit-learn, NLTK, PyTorch, Transformers
+# COVID-19 Social Media Sentiment Mining | Python, Pandas , scikit-learn, NLTK, PyTorch, Transformers
 
 Analyzed 41,000 tweets from the Corona_NLP dataset to track public sentiment (Positive, Neutral, Negative) during the COVID-19 pandemic. Designed a comprehensive NLP pipeline (lowercasing, hashtag/mention/URL removal, punctuation cleanup, stopword removal, lemmatization) and conducted EDA with word clouds and trend analysis.
 

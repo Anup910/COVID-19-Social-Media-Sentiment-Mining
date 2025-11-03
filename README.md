@@ -162,11 +162,12 @@ BERT captures **contextual semantics**, improving generalization on short, infor
 
 ## 🧭 6. Quick Repro & Business Takeaway
 
-- Reproducible with standard PyTorch + Transformers workflow
+- Reproducible with standard PyTorch + Transformers workflow.
   
-- Demonstrates how **contextual NLP models enable real-world analytics** at scale
+- Demonstrates how **contextual NLP models enable real-world analytics** at scale.
    
-- Ideal as a **production prototype** for social listening or misinformation analysis platforms  
+- Ideal as a **production prototype** for social listening or misinformation analysis platforms.  
+
 
 **Business takeaway:**  
 With ~78% accuracy and scalable design, this system can power automated sentiment dashboards, reducing analyst workload and surfacing critical shifts in public emotion during crises.
